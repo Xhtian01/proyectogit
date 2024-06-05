@@ -12,6 +12,6 @@ Esc :wq --> para cerrar si sale algún error
 8. git push -u origin main --> Sube archivos a Repositorio 
 
 # GITHUB
-git remote --> permite sincronizar nuestro proyecto local a la nube
-git branch -M main --> renombra la rama Master a Main
-git push -u origin main --> sirve para subirlo a la nube
+1. git remote --> permite sincronizar nuestro proyecto local a la nube
+2. git branch -M main --> renombra la rama Master a Main
+3. git push -u origin main --> sirve para subirlo a la nube
