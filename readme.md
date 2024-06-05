@@ -1,6 +1,8 @@
 # COMANDOS GIT
 
 Esc :wq --> para cerrar si sale algún error
+ls -la --> para solucionar si se crea mal el init
+.git/
 
 1. git init --> Inicializa por primera vez git (solo se hace una vez)
 2. git status --> Brinda el status del repositorio (te dice en que etapa estás)
@@ -9,9 +11,15 @@ Esc :wq --> para cerrar si sale algún error
 5. git log --> Te lista todos los commits realizados
 6. git log --oneline --> Muestra un resumen corto
 7. .gitignore --> ignora archivos o carpetas
-8. git push -u origin main --> Sube archivos a Repositorio 
+8. git push -u origin main --> Sube archivos a Repositorio
 
 # GITHUB
+
 1. git remote --> permite sincronizar nuestro proyecto local a la nube
 2. git branch -M main --> renombra la rama Master a Main
 3. git push -u origin main --> sirve para subirlo a la nube
+
+# GIT BASH
+
+1. git config --global user.name 'usuario'
+2. git config --global user.email 'correo'
