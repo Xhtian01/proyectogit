@@ -13,5 +13,5 @@ Esc :wq --> para cerrar si sale algún error
 
 # GITHUB
 git remote --> permite sincronizar nuestro proyecto local a la nube
-git branch -M main --> sirverenombra la rama
+git branch -M main --> renombra la rama Master a Main
 git push -u origin main --> sirve para subirlo a la nube
